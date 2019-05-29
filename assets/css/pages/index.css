@@ -27,7 +27,6 @@
     color: #fff
 }
 
-
 @media (max-width:50em) {
   .home .collapsed .icon-bar {
     background-color: white;

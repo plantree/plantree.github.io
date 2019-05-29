@@ -1,19 +1,20 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 
+keywords: sunbufu
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+Life is great and everything will be OK
 
-仰慕「优雅编码的艺术」。
+## 联系
 
-坚信熟能生巧，努力改变人生。
-
+{% for website in site.data.social %}
+* {{ website.sitename }}：[{{ website.name }}]({{ website.url }})
+{% endfor %}
 
 ## Skill Keywords
 

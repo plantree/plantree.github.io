@@ -1,5 +1,9 @@
-- name: Not very good at
+- name: Software Engineer Keywords
   keywords:
-      - Unix/Linux
-      - C/C++
+      - Java
+      - Python
+      - Design Patterns
 
+- name: Mobile Developer Keywords
+  keywords:
+      - Android
