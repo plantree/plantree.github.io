@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: py.wang
+author: Plantree
 organization: 
 organization_url: 
 github_username: plantree
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: plantree/plantree.github.io
 
 # ---------------- #
 #      Comments    #
@@ -103,7 +103,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: plantree
-    repo: plantree_comment
+    repo: plantree.github.io
     clientID: 6bebe61efd81c8e0480b
     clientSecret: 6c4685da919291281c51f315202053b5eff77f6b
 # 在使用其它评论组件时可点击显示 Disqus
