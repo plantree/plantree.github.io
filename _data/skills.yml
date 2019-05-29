@@ -1,19 +1,5 @@
-- name: Software Engineer Keywords
+- name: Not very good at
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Unix/Linux
+      - C/C++
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
