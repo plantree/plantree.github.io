@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+title: wiki
+description: stay hungry and stay foolish
+keywords: 维基, wiki
 comments: false
 menu: 维基
 permalink: /wiki/
 ---
 
-> 快捷键和命令的整理
+> Archive some links
 
 <ul class="listing">
 {% for wiki in site.wiki %}
