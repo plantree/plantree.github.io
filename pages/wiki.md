@@ -1,6 +1,6 @@
 ---
 layout: page
-title: wiki
+title: Wikis
 description: stay hungry and stay foolish
 keywords: 维基, wiki
 comments: false
