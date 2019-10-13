@@ -8,7 +8,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> Archive some links
+> Archive something important
 
 <ul class="listing">
 {% for wiki in site.wiki %}

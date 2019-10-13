@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: 这些年看过的书
-categories: 书
+categories: [书]
 description: 书
 keywords: 书
 ---
